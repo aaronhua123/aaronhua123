@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: aaronhua
+title: Hexo
 subtitle: ''
-description: 'python fastapi selenium'
+description: ''
 keywords:
-author: Aaron Hua
+author: John Doe
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://aaronhua123.github.com/aaronhua123
-root: /aaronhua123/
+url: http://yoursite.com
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -93,11 +93,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git #部署方式
-  repository: git@github.com:aaronhua123/aaronhua123.git
-  branch: gh-pages
+  type: ''
