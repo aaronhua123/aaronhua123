@@ -1,5 +1,6 @@
 # aaronhua123
 
+
 hexo new 文章名称
 
 hexo g 生成静态文件
