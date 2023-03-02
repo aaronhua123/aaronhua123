@@ -1,10 +1,6 @@
-# aaronhua123
+### Hi im ahua.
 
+- 🌱 I’m currently learning rust and coding python.
 
-hexo new 文章名称
-
-hexo g 生成静态文件
-
-hexo s 服务器
-
-直接git上传就可以了
+[![Stat](https://github-readme-stats.vercel.app/api?username=aaronhua123&count_private=true&show_icons=true&line_height=20&theme=default)](https://github.com/aaronhua123)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronhua123&layout=compact&hide=HTML,JavaScript,CSS,EJS,Stylus,Tex&theme=default_repocard)](https://github.com/aaronhua123)
